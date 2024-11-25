@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+// 공통 헬퍼 함수 사용
+@use '../css/common/helper' as *;
+
+// 공통 스타일 인클루드
+@import '../css/common/base';
+@import '../css/common/layout';
+@import '../css/common/form';
+@import '../css/common/icon';
